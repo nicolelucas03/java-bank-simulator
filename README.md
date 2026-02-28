@@ -1,4 +1,5 @@
-# Bank Simulation
+# Java Bank Simulation
+A console-based banking application built in Java that simulates core banking operations such as account creation, authentication, account management, and security features. This project was developed iteratively using agile principles and Git version control. 
 
 Team Members:
 
@@ -6,23 +7,39 @@ Team Members:
 * Ella Giere
 * Nicole Lucas
 
-# Iteration 3:
+# Project Overview:
+The Java Bank Simulation allows users to register, securely log in, manage their bank accounts, and perform account-related actions in a simulated banking environment.
 
-What user stories were completed this iteration?
+This project emphasizes: 
+- Object-Oriented Programming 
+- User Authentication and Security 
+- Data persistence within program runtime  
+- Team collaboration and version control (Git/GitHub)
 
-This iteration, we added functionality for a bank customer to:
-* create a help/FAQ section for clarity
-* ability to reset passwords
-* adding a security question with password creation for enhanced security
-* confirm user login information during account creation
-* ability to freeze and unfreeze an account  
-* customer can log out and another customer can log in
-* ability to store bank account information for each registered account
+# Features Implemented
+During this iteration, we implemented the following user stories:
 
-Is there anything that you implemented but doesn't currently work?
-* Everything we implemented in Iteration 3 works. 
+### Security & Authentication
+- Secure account creation with login confirmation
+- Password reset functionality
+- Security question integration for enhanced account protection
+- User login/logout functionality
+- Account freeze and unfreeze capability
 
-What commands are needed to compile and run your code from the command line (please provide a script that users can run to launch your program)?
+### Account Management
+- Store bank account information for each registered user
+- Support for multiple users (one user can log out and another can log in)
+
+### Help & Usability 
+- Integrated Help/FAQ section to improve user experience and clarity 
+
+# Technologies Used 
+- Java 
+- Shell scripting (for program execution)
+- Git & GitHub for version control 
+
+
+# How to Compile and Run
 
 If you are using a Mac, please use the following commands: 
 
