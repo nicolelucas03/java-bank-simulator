@@ -1,6 +1,8 @@
 # Java Bank Simulation
 A console-based banking application built in Java that simulates core banking operations such as account creation, authentication, account management, and security features. This project was developed iteratively using agile principles and Git version control. 
 
+![Demo_Video](java_bank_demo.gif)
+
 Team Members:
 
 * Erika Wallace
